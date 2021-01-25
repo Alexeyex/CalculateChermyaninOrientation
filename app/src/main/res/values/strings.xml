@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculateChermyanin</string>
+    <string name="btn_ok">OK</string>
+    <string name="text_page">Текст на странице</string>
+</resources>
